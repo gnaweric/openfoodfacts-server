@@ -658,6 +658,30 @@ hu:Almaborok
 nl:Ambachtelijke ciders
 ro:Cidru
 
+<en:Ciders
+en:Traditional Welsh Cider
+protected_name_file_number_en: PGI-GB-01251
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
+<en:Ciders
+en:Gloucestershire cider
+protected_name_file_number_en: PGI-GB-0290
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
+<en:Ciders
+en:Worcestershire cider
+protected_name_file_number_en: PGI-GB-0291
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
+<en:Ciders
+en:Herefordshire cider
+protected_name_file_number_en: PGI-GB-0292
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
 <en:Alcoholic beverages
 <en:Mixed drinks
 de:Biermischgetränk, Biermixgetränk
@@ -993,15 +1017,19 @@ nl:Britse bieren
 
 <en:Beers from United Kingdom
 en:Kentish ale, Kentish strong ale
-country:en:United Kingdom
+protected_name_file_number_en: PGI-GB-0296
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
 
 <en:Beers from United Kingdom
 en:Newcastle Brown Ale
 country:en:United Kingdom
 
-<en:Beers from United Kingdom
-en:Rutland bitter
-country:en:United Kingdom
+<en:British beers
+en:Rutland Bitter
+protected_name_file_number_en: PGI-GB-0373
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
 
 <en:Beers
 en:Amber beers, Amber ale
@@ -7431,6 +7459,18 @@ fr:Coteaux du Languedoc Saint-Saturnin, Saint-Saturnin
 country:en:France
 
 <en:Wines from France
+fr:Picpoul de Pinet
+protected_name_file_number_en: PDO-FR-N1672
+protected_name_type:en: pdo
+origins:en: en:France
+
+<en:Wines from France
+fr:La Clape
+protected_name_file_number_en: PDO-FR-02113
+protected_name_type:en: pdo
+origins:en: en:France
+
+<en:Wines from France
 fr:Coteaux du Layon Chaume Val de Loire, Coteaux du Layon Chaume
 country:en:France
 
@@ -7441,8 +7481,15 @@ country:en:France
 <en:Wines from France
 fr:Coteaux du Libron
 wikidata:en:Q21427116
-country:en:France
-instanceof:fr:IGP
+protected_name_file_number_en: PGI-FR-A1146-AM02
+protected_name_type:en: pgi
+origins:en: en:France
+
+<en:Wines from France
+fr:Savennières Coulée de Serrant
+protected_name_file_number_en: PDO-FR-A0983-AM01
+protected_name_type:en: pdo
+origins:en: en:France
 
 <en:Wines from France
 fr:Coteaux du littoral audois
@@ -7461,8 +7508,9 @@ country:en:France
 <en:Wines from France
 fr:Coteaux du Pont du Gard
 wikidata:en:Q18611050
-country:en:France
-instanceof:fr:IGP
+protected_name_file_number_en: PGI-FR-A1131-AM01
+protected_name_type:en: pgi
+origins:en: en:France
 
 <en:Wines from France
 fr:Coteaux du Quercy
@@ -7705,7 +7753,9 @@ instanceof:fr:IGP
 <en:Wines from France
 fr:Duché d’Uzès
 wikidata:en:Q19952392
-country:en:France
+protected_name_file_number_en: PGI-FR-A1165-AM01
+protected_name_type:en: pgi
+origins:en: en:France
 
 <en:Burgundy wines
 <en:Red wines
@@ -12476,9 +12526,19 @@ protected_name_type:en: pdo
 origins:en: en:Brazil
 
 <en:Wines
+en:Dutch wines
+
+<en:Wines
 en:Wines from Belgium, Belgian Wines
 nl:Belgische wijnen
 wikidata:en:Q1738893
+
+<en:Dutch wines
+<en:Wines from Belgium
+nl:Maasvallei Limburg
+protected_name_file_number_en: PDO-BE+NL-02172
+protected_name_type:en: pdo
+origins:en: en:Belgium, Netherlands
 
 <en:Wines from Belgium
 nl:Vlaamse mousserende kwaliteitswijn, Vlaamse mousserende kwaliteitswijnen
@@ -23804,6 +23864,12 @@ hu:Cheddar sajt
 nl:Cheddars, Cheddar
 wikidata:en:Q217525
 
+<en:British cheeses
+en:Exmoor Blue Cheese
+protected_name_file_number_en: PGI-GB-0001
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
 <en:Cheddar cheese
 en:Mature cheddar
 de:Reifer Cheddar, Gereifter Cheddar
@@ -24838,6 +24904,24 @@ es:Quesos de Inglaterra
 fr:Fromages d'Angleterre
 nl:Engelse kazen
 
+<en:British cheeses
+en:Teviotdale Cheese
+protected_name_file_number_en: PGI-GB-0285
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
+<en:British cheeses
+en:White Stilton cheese, Blue Stilton cheese
+protected_name_file_number_en: PDO-GB-0277
+protected_name_type:en: pdo
+origins:en: en:United Kingdom
+
+<en:British cheeses
+en:Orkney Scottish Island Cheddar
+protected_name_file_number_en: PGI-GB-0908
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
 <en:Cheeses from England
 <en:Cow cheeses
 en:Applewood cheese
@@ -24906,6 +24990,12 @@ wikidata:en:Q3023574
 <en:Cheeses from England
 en:Dorset Blue Vinney
 wikidata:en:Q1227882
+
+<en:Cheeses from England
+en:Dorset Blue Cheese
+protected_name_file_number_en: PGI-GB-0002
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
 
 <en:Cheeses from England
 en:Dorset Drum
@@ -25018,12 +25108,21 @@ en:Waterloo cheese
 wikidata:en:Q3566692
 
 <en:Cheeses from England
-en:Wensleydale cheese
+en:Wensleydale cheese, Yorkshire Wensleydale
+protected_name_file_number_en: PGI-GB-0652
+protected_name_type:en: pgi
+origins:en: en:United Kingdom, en:England, en:Yorkshire
 wikidata:en:Q1972540
 
 <en:Cheeses from England
 en:Wrekin White
 wikidata:en:Q3570104
+
+<en:British cheeses
+en:Staffordshire Cheese
+protected_name_file_number_en: PDO-GB-0354
+protected_name_type:en: pdo
+origins:en: en:United Kingdom
 
 <en:Cheeses from the United Kingdom
 en:Cheeses from Scotland
@@ -25047,7 +25146,10 @@ en:Crowdie
 wikidata:en:Q2895215
 
 <en:Cheeses from Scotland
-en:Dunlop
+en:Dunlop, Traditional Ayrshire Dunlop
+protected_name_file_number_en: PGI-GB-0889
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
 wikidata:en:Q1266163
 
 <en:Cheeses from Scotland
@@ -25066,7 +25168,10 @@ nl:Welshe kazen
 pt:Queijos do País de Gales
 
 <en:Cheeses from Wales
-en:Caerphilly
+en:Caerphilly, Traditional Welsh Caerphilly, Traditional Welsh Caerffili
+protected_name_file_number_en: PGI-GB-02090
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
 wikidata:en:Q1025407
 
 <en:Cheeses from Wales
@@ -30385,7 +30490,24 @@ fr:Huiles de colza, huile de colza
 it:Olio di colza
 nl:Koolzaadoliën
 nl_be:Koolzaadoliën
-wikidata:en:Q17908ë72
+wikidata:en:Q1790872
+
+<en:labelled products
+en:British oils and fats
+
+<en:British oils and fats
+<en:Rapeseed oils
+en:Iveagh Rapeseed Oil
+protected_name_file_number_en: PGI-GB-2464
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
+<en:British oils and fats
+<en:Rapeseed oils
+en:Broighter Gold Rapeseed Oil
+protected_name_file_number_en: PGI-GB-2198
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
 
 <en:Rapeseed oils
 en:Canola oils
@@ -38368,6 +38490,19 @@ fr:Tourtes, Tourte
 nl:Pies, pie
 wikidata:en:Q13360264
 
+<en:Meat-based products
+en:meat pies
+
+<en:salted pies
+<en:meat pies
+en:Pork pies
+
+<en:Pork pies
+en:Melton Mowbray Pork Pie
+protected_name_file_number_en: PGI-GB-0335
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
 <en:salted pies
 <en:two-crust pies
 en:Mushroom pies
@@ -38557,6 +38692,22 @@ de:Froschschenkel
 fr:Cuisses de Grenouilles
 nl:Kikkerbillen
 zh:青蛙腿, 蛙腿
+
+<en:meats
+en:Belgian fresh meat and offal
+
+<en:Belgian fresh meat and offal
+nl:Vlees van het rood ras van West-Vlaanderen
+protected_name_file_number_en: PDO-BE-02261
+protected_name_type:en: pdo
+origins:en: en:Belgium
+
+<en:Belgian fresh meat and offal
+fr:Viande de Blanc-Bleu Belge
+nl:Belgisch Witblauw Vlees
+protected_name_file_number_en: PGI-BE-02377
+protected_name_type:en: pgi
+origins:en: en:Belgium
 
 <en:meats
 en:Italian fresh meat and offal
@@ -39686,6 +39837,21 @@ wikidata:en:Q3820622
 <en:Hams
 en:French hams
 
+<en:Hams
+en:British hams
+
+<en:Hams
+en:Italian hams
+
+<en:Hams
+en:Spanish hams
+
+<en:British hams
+en:Carmarthen Ham
+protected_name_file_number_en: PGI-GB-01229
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
 es:Jamón Curado
 
 <en:Hams
@@ -40015,6 +40181,18 @@ th:ไส้กรอก
 zh:香肠
 
 <en:Sausages
+en:Newmarket Sausage
+protected_name_file_number_en: PGI-GB-0882
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
+<en:Sausages
+en:Traditional Cumberland Sausage
+protected_name_file_number_en: PGI-GB-0715
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
+<en:Sausages
 en:Poultry sausages
 de:Geflügelwürste
 es:Salchichas de aves
@@ -40286,6 +40464,12 @@ en:Black pudding with appel
 fr:Boudins noirs aux pommes, Boudins noir aux pommes
 nl:Bloedworsten met appel
 
+<en:Black pudding
+en:Stornoway Black Pudding
+protected_name_file_number_en: PGI-GB-0876
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
 <en:Prepared meats
 fr:Charcuteries à cuire, charcuterie à cuire
 
@@ -40430,6 +40614,13 @@ fr:Mousses de foies de volailles, mousses de foie de volaille, mousses de foies 
 fr:Saucissons, Saucisson
 de:Würstchen
 nl:Worstjes
+
+<fr:Saucissons
+fr:Saucisson d'Ardenne, Collier d'Ardenne, Pipe d'Ardenne
+protected_name_file_number_en: PGI-BE-01222
+protected_name_type:en: pgi
+origins:en: en:Belgium
+wikidata:en:Q3474167
 
 <en:Prepared meats
 en:cut,cold cuts,cold meat
@@ -42819,6 +43010,16 @@ zh:海鲜
 pnns_group_2:en:Fish and seafood
 
 <en:Seafood
+en:Armenian sea products
+
+<en:Armenian sea products
+hy:ՍԵՒԱՆԻ ԻՇԽԱՆ, SEVANI ISHKHAN
+en:SEVAN TROUT
+protected_name_file_number_en: PDO-AM-2164
+protected_name_type:en: pdo
+origins:en: en:Armenia
+
+<en:Seafood
 en:Spanish sea products
 
 <en:Spanish sea products
@@ -43296,6 +43497,20 @@ fi:lohifileet
 fr:Filets de saumon
 nl:Zalmfilet
 
+#<en:British sea products
+<en:Salmons
+en:Scottish Wild Salmon
+protected_name_file_number_en: PGI-GB-0863
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
+#<en:British sea products
+<en:Salmons
+en:Scottish Farmed Salmon
+protected_name_file_number_en: PGI-GB-0141
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
+
 <en:Fishes
 en:Anchovy
 de:Sardellen
@@ -43365,6 +43580,13 @@ fi:savustetut villilohet
 fr:Saumons fumés sauvages, saumon fumé sauvage, saumon fumé de pêche, saumons fumés de pêche, saumons sauvages fumés
 it:Salmoni affumicati selvaggi
 nl:Gerookte wilde zalm
+
+#<en:British sea products
+<en:Smoked salmons
+en:London Cure Smoked Salmon
+protected_name_file_number_en: PGI-GB-01350
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
 
 <en:Smoked fishes
 fr:Dorades fumées, dorade fumée
@@ -43764,6 +43986,13 @@ fr:Moules de Bouchot
 fr:Moules de Bouchot de la Baie du Mont-Saint-Michel
 wikidata:en:Q42863988
 
+#<en:British sea products
+<en:Mussels
+en:Conwy Mussels
+protected_name_file_number_en: PDO-GB-01304
+protected_name_type:en: pdo
+origins:en: en:United Kingdom
+
 <en:Canned foods
 <en:Mussels
 en:Canned mussels
@@ -43787,6 +44016,13 @@ it:Ostriche
 nl:Oesters
 ro:Stridii
 wikidata:en:Q107411
+
+#<en:British sea products
+<en:Oysters
+en:Whitstable oysters
+protected_name_file_number_en: PGI-GB-0371
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
 
 <en:Mollusc
 en:Calamari
@@ -46863,6 +47099,13 @@ nl:Aardappelen
 nl_be:Aardappelen
 se:Potatisar, potatis
 pnns_group_2:en:Potatoes
+
+<en:British vegetables
+<en:Potatoes
+en:Jersey Royal potatoes
+protected_name_file_number_en: PDO-GB-0027
+protected_name_type:en: pdo
+origins:en: en:United Kingdom
 
 <en:Potatoes
 en:Agata potatoes
@@ -51694,6 +51937,11 @@ nl:Friand
 en:Sausage friands, Puff pastries with sausage, puff pastry with sausage
 fr:Friands à la saucisse
 nl:Worst friands
+
+en:Cornish Pasty
+protected_name_file_number_en: PGI-GB-0727
+protected_name_type:en: pgi
+origins:en: en:United Kingdom
 
 <en:Meals
 en:Stuffed vine leaves
